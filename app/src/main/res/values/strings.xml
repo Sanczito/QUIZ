@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+
+
+    <!--
+    question 1
+     -->
+    <string name="hint">Welcome to QuickQuiz. Enter Your Name here</string>
+
+    <!-- q1 answers [CHAR LIMIT=20] -->
+    <string name="capital">What is the capital of Poland ?</string>
+    <string name="warsaw">Warsaw</string>
+    <string name="prague">Prague</string>
+    <string name="london">London</string>
+    <string name="berlin">Berlin</string>
+
+    <!--
+    question 2
+    -->
+    <string name="biggest_country">What is the biggest country in the World?</string>
+
+    <!-- q1 answers [CHAR LIMIT=20] -->
+    <string name="canada">Canada</string>
+    <string name="russia">Russia</string>
+    <string name="australia">Australia</string>
+    <string name="china">China</string>
+
+    <!--
+     question 3
+    -->
+
+    <string name="largest_country">Which country has the largest population in the World?</string>
+    <!-- q1 answers [CHAR LIMIT=20] -->
+    <string name="india">India</string>
+    <string name="usa">U.S.A</string>
+
+    <!--
+     question 4
+    -->
+    <string name="body_water">What percent of your body is water ?</string>
+
+    <!--
+    question 5
+    -->
+    <string name="piano">How many keys are there on the piano ?</string>
+    <!--Calculate Score Button
+    -->
+
+    <string name="score_button">PRESS TO CHECK YOUR SCORE</string>
+
+
+    <string name="score"> Your Score </string>
+
+    <string name="final_score_message">You have scored </string>
+
+
+    <!-- Toast messages -->
+
+    <string name="toast_one">YOU ARE AWESOME - YOU HAVE SCORED 100 % CORRECT ANSWERS</string>
+    <string name="toast_two">Not bad , but I am sure You can do better !</string>
+    <string name="toast_three">Well... Please try again</string>
+</resources>
